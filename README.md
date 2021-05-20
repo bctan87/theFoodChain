@@ -10,15 +10,39 @@ Here are the links to my work:
 
 https://thefoodchain.herokuapp.com/
 
-https://github.com/bctan87/tanb_react_portfolio
+https://github.com/bctan87/theFoodChain/blob/master/README.md
 
 ## Installation
 
 git clone repo
 
-npm install 
+cd to client
+
+npm i
+
+cd to server 
+
+npm i
+
+cd to root
+
+npm i
 
 npm start
+
+## Tech Used:
+
+Jira
+REACT
+Apollo
+Graphql
+JWT
+Bcrypt
+Jsonwebtoken
+Mongoose
+Stripe
+Bulma
+Materialize
 
 ## Credits
 
