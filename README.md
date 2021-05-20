@@ -2,7 +2,7 @@
 
 ## Description
 
-The goal of this work is create an ecommerce website using MERN and GraphQL. 
+The goal of this work is create a mobile-friendly e-commerce/grocery app using MERN and GraphQL. 
 
 ## Deployment
 
