@@ -32,17 +32,17 @@ npm start
 
 ## Tech Used:
 
-Jira
-REACT
-Apollo
-Graphql
-JWT
-Bcrypt
-Jsonwebtoken
-Mongoose
-Stripe
-Bulma
-Materialize
+Jira,
+REACT,
+Apollo,
+Graphql,
+JWT,
+Bcrypt,
+Jsonwebtoken,
+Mongoose,
+Node,
+Stripe,
+Materialize,
 
 ## Credits
 
