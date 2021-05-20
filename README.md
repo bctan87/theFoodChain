@@ -12,6 +12,8 @@ https://thefoodchain.herokuapp.com/
 
 https://github.com/bctan87/theFoodChain/blob/master/README.md
 
+Team Repo: https://github.com/DSnod93/grocery-app
+
 ## Installation
 
 git clone repo
